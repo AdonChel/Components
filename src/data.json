@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "front": "apple",
+        "back": "яблоко"
+    },
+    {
+        "id": 2,
+        "front2": "red",
+        "back2": "красный"
+    },
+    {
+        "id": 3,
+        "front": "сar",
+        "back": "машина"
+    },
+    {
+        "id": 4,
+        "front": "circle",
+        "back": "круг"
+    },
+    {
+        "id": 5,
+        "front": "yellow",
+        "back": "желтый"
+    },
+    {
+        "id": 6,
+        "front": "green",
+        "back": "зеленый"
+    },
+    {
+        "id": 7,
+        "front": "ball",
+        "back": "мяч"
+    },
+    {
+        "id": 8,
+        "front": "human",
+        "back": "человек"
+    },
+    {
+        "id": 9,
+        "front": "book",
+        "back": "книга"
+    },
+    {
+        "id": 10,
+        "front": "teacher",
+        "back": "учитель"
+    }
+]

@@ -1,0 +1,19 @@
+.buttonSet {
+    background-color: #000000;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+
+}
+
+.buttonSet:hover {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    transition: transform 15s ease;
+}
